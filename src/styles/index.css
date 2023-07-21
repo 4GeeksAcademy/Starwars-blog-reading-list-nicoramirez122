@@ -2,7 +2,9 @@
     General Styles
 */
 
-
+body {
+    background-color: grey;
+}
 
 
 h1 {
