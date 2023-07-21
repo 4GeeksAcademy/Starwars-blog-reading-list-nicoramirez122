@@ -1,3 +1,59 @@
 /* 
     General Styles
 */
+
+
+
+
+h1 {
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.card {
+    margin: 5px;
+    padding: 0;
+    background-color: #fad961;
+    background-image: linear-gradient(180deg, #fad961 0%, #f76b1c 29%, #045d9a 78%);
+
+    ;
+}
+
+.table {
+    color: black;
+
+}
+
+#logo {
+    width: 100px;
+    height: 70px;
+}
+
+nav {
+    background: black;
+}
+
+#fav {
+    padding: 4px;
+    margin-left: 5.5rem;
+}
+
+span {
+    background: tomato;
+    height: 35px;
+    width: 0;
+    margin-right: 10px;
+    margin-left: -10px;
+    text-align: center;
+    color: white;
+    opacity: 0;
+    transition: 0.2s linear;
+    float: left;
+}
+
+
+
+button.fa-trash {
+    margin: 7px;
+}
